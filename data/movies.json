@@ -1,0 +1,192 @@
+{
+  "movies": [
+    {
+      "name": "Good omens",
+      "year": 2019,
+      "description": "TV Series",
+      "director": {
+        "fullName": "Douglas Mackinnon"
+      },
+      "cast": [
+        {
+          "fullName": "Michael Sheen",
+          "role": "Aziraphale"
+        },
+        {
+          "fullName": "David Tennant",
+          "role": "Crowley"
+        }
+      ]
+    },
+    {
+      "name": "Carnival Row",
+      "year": 2019,
+      "description": "TV Series",
+      "director": {
+        "fullName": "Some Director"
+      },
+      "cast": [
+        {
+          "fullName": "Orlando Bloom",
+          "role": "Detective"
+        },
+        {
+          "fullName": "Some Girl",
+          "role": "Angry Fae"
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "year": 2005,
+      "description": "Movie",
+      "director": {
+        "fullName": "Happy Guy"
+      },
+      "cast": [
+        {
+          "fullName": "David Tennant",
+          "role": "Barty Crouch Junior"
+        },
+        {
+          "fullName": "Daniel Radcliffe",
+          "role": "Harry Potter"
+        }
+      ]
+    },
+    {
+      "name": "Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "description": "Movie",
+      "director": {
+        "fullName": "Peter Jackson"
+      },
+      "cast": [
+        {
+          "fullName": "Ian McKellen",
+          "role": "Gandalf"
+        },
+        {
+          "fullName": "Martin Freeman",
+          "role": "Bilbo"
+        },
+        {
+          "fullName": "Richard Armitage",
+          "role": "Thorin"
+        }
+      ]
+    },
+    {
+      "name": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "description": "Movie",
+      "director": {
+        "fullName": "Peter Jackson"
+      },
+      "cast": [
+        {
+          "fullName": "Ian McKellen",
+          "role": "Gandalf"
+        },
+        {
+          "fullName": "Martin Freeman",
+          "role": "Bilbo"
+        },
+        {
+          "fullName": "Richard Armitage",
+          "role": "Thorin"
+        },
+        {
+          "fullName": "Orlando Bloom",
+          "role": "Legolas"
+        },
+        {
+          "fullName": "Evangeline Lilly",
+          "role": "Tauriel"
+        },
+        {
+          "fullName": "Lee Pace",
+          "role": "Thranduil"
+        }
+      ]
+    },
+    {
+      "name": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "description": "Movie",
+      "director": {
+        "fullName": "Peter Jackson"
+      },
+      "cast": [
+        {
+          "fullName": "Ian McKellen",
+          "role": "Gandalf"
+        },
+        {
+          "fullName": "Martin Freeman",
+          "role": "Bilbo"
+        },
+        {
+          "fullName": "Richard Armitage",
+          "role": "Thorin"
+        },
+        {
+          "fullName": "Orlando Bloom",
+          "role": "Legolas"
+        },
+        {
+          "fullName": "Evangeline Lilly",
+          "role": "Tauriel"
+        },
+        {
+          "fullName": "Lee Pace",
+          "role": "Thranduil"
+        }
+      ]
+    },
+    {
+      "name": "Avengers: Endgame",
+      "year": 2019,
+      "description": "Movie",
+      "director": {
+        "fullName": "Anthony Russo"
+      },
+      "cast": [
+        {
+          "fullName": "Evangeline Lilly",
+          "role": "Hope Van Dyne, Wasp"
+        },
+        {
+          "fullName": "Robert Downey Jr.",
+          "role": "Tony Stark, Iron Man"
+        },
+        {
+          "fullName": "Chris Hemsworth",
+          "role": "Thor"
+        }
+      ]
+    },
+    {
+      "name": "Sherlock: Season 1",
+      "year": 2010,
+      "description": "TV Series",
+      "director": {
+        "fullName": "Paul McGuigan"
+      },
+      "cast": [
+        {
+          "fullName": "Benedict Cumberbatch",
+          "role": " Sherlock Holmes"
+        },
+        {
+          "fullName": "Martin Freeman",
+          "role": "Dr. Watson"
+        },
+        {
+          "fullName": "Una Stubbs",
+          "role": "Mrs. Hudson"
+        }
+      ]
+    }
+  ]
+}
