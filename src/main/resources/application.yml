@@ -1,0 +1,15 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: "jobSearch"
+  datasource:
+    url: jdbc:h2:./db/test;AUTO_SERVER=TRUE
+    username: root
+    password: eldo
+    driver-class-name: org.h2.Driver
+  sql:
+    init:
+      mode: always
+
+
