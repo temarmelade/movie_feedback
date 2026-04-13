@@ -2,7 +2,7 @@ server:
   port: 8082
 spring:
   application:
-    name: "jobSearch"
+    name: "movie_feedback"
   datasource:
     url: jdbc:h2:./db/test;AUTO_SERVER=TRUE
     username: root

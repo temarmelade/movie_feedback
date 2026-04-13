@@ -2,13 +2,11 @@ package org.example.movie_feedback.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.example.movie_feedback.dto.UserDto;
-import org.example.movie_feedback.model.User;
 import org.example.movie_feedback.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 @RequiredArgsConstructor
@@ -30,5 +28,8 @@ public class UserController {
         userService.addUser(userDto);
         return HttpStatus.CREATED;
     }
-
+    @PostMapping("withId")
+    public int createUserAndReturnId(@RequestBody UserDto userDto) {
+        return userService.createUserAndReturnId(userDto);
+    }
 }
